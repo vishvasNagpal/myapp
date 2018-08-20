@@ -1,0 +1,17 @@
+<xml-routes>
+    <route>
+        <route-name>index</route-name>
+        <route-url>/</route-url>
+        <route-class>/router/HomeRouter</route-class>
+    </route>
+    <route>
+        <route-name>feeds</route-name>
+        <route-url>/feeds</route-url>
+        <route-class>/router/FeedRouter</route-class>
+    </route>
+    <route>
+        <route-name>user</route-name>
+        <route-url>/user</route-url>
+        <route-class>/router/UserRouter</route-class>
+    </route>
+</xml-routes>
